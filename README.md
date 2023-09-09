@@ -11,3 +11,5 @@ This repo created for algorithm problem solution
 - [SearchInsertPosition](https://pl.kotl.in/CAS7HyosY)
 - [ContainDuplicate_II](https://pl.kotl.in/FZh9nEq3S)
 - [FirstOccurrence](https://pl.kotl.in/7_wNOGm3K)
+  ![image](https://github.com/nknr/leetcode-problem/assets/18142767/95b831d8-3ae6-44c0-ae28-92abc15275c0)
+
