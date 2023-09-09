@@ -2,7 +2,7 @@ fun main() {
     println("result: ${getPosition(intArrayOf(1, 3, 5, 6), 5)}")
 }
 
-fun getPosition(nums: IntArray, target: Int): Int {
+private fun getPosition(nums: IntArray, target: Int): Int {
     var low = 0
     var high = nums.size - 1
     while (low <= high) {

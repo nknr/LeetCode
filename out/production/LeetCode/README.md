@@ -9,3 +9,4 @@ This repo created for algorithm problem solution
 - [RomanToInt](https://pl.kotl.in/6hfTD5JzT)
 - [TwoSum](https://pl.kotl.in/hF0BRlDkl)
 - [SearchInsertPosition](https://pl.kotl.in/CAS7HyosY)
+- [ContainDuplicate_II](https://pl.kotl.in/FZh9nEq3S)

@@ -10,3 +10,4 @@ This repo created for algorithm problem solution
 - [TwoSum](https://pl.kotl.in/hF0BRlDkl)
 - [SearchInsertPosition](https://pl.kotl.in/CAS7HyosY)
 - [ContainDuplicate_II](https://pl.kotl.in/FZh9nEq3S)
+- [FirstOccurrence](https://pl.kotl.in/7_wNOGm3K)
