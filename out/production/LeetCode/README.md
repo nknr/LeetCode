@@ -7,3 +7,5 @@ This repo created for algorithm problem solution
 
 ***Run on kotlin playground***
 - [RomanToInt](https://pl.kotl.in/6hfTD5JzT)
+- [TwoSum](https://pl.kotl.in/hF0BRlDkl)
+- [SearchInsertPosition](https://pl.kotl.in/CAS7HyosY)
